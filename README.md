@@ -8,6 +8,7 @@ map-reduce job example:
 
 
 class Example:
+
     def __init__(self,init_value=None):
         pass
         #print 'start map reduce.',init_value
